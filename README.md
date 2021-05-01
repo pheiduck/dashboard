@@ -21,6 +21,12 @@ There is not a lot of content, some Projects are on GitLab which I maintain or c
 </p>
 
 ---
+
+[![Visits](https://badges.pufler.dev/visits/pheiduck/pheiduck?style=flat-square&color=black&logo=github)](https://github.com/pheiduck)
+[![Years](https://badges.pufler.dev/years/pheiduck?style=flat-square&color=black&logo=github)](https://github.com/pheiduck)
+[![Repos](https://badges.pufler.dev/repos/pheiduck?style=flat-square&color=black&logo=github)](https://github.com/pheiduck?tab=repositories)
+---
+
 <p align="center">
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" lign="left"/></a>
 <a href="https://github.com/pheiduck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"  width="40" height="40" lign="left"/></a>
