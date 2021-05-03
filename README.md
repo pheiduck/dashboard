@@ -22,9 +22,9 @@ There is not a lot of content, some Projects are on GitLab which I maintain or c
 
 ---
 
-[![Visits](https://badges.pufler.dev/visits/pheiduck/pheiduck?style=flat-square&color=black&logo=github)](https://github.com/pheiduck)
-[![Years](https://badges.pufler.dev/years/pheiduck?style=flat-square&color=black&logo=github)](https://github.com/pheiduck)
-[![Repos](https://badges.pufler.dev/repos/pheiduck?style=flat-square&color=black&logo=github)](https://github.com/pheiduck?tab=repositories)
+[![Visits](https://badges.pufler.dev/visits/pheiduck/pheiduck?style=for-the-badge&logo=github)](https://github.com/pheiduck)
+[![Years](https://badges.pufler.dev/years/pheiduck?style=for-the-badge&logo=github)](https://github.com/pheiduck)
+[![Repos](https://badges.pufler.dev/repos/pheiduck?style=for-the-badge&logo=github)](https://github.com/pheiduck?tab=repositories)
 ---
 
 <p align="center">
