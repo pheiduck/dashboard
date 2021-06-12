@@ -4,11 +4,12 @@
 
 <p align="center">
 
-```bash
-My name is Philip, I am a System Administrator on a medium-sized company.
-I am also a Member of Tux Tage (IT-Team).
-There is not a lot of content, some Projects are on GitLab which I maintain or contribute.
-Likes to automate tasks which needs to be constantly maintained.
+```shell
+👨🏻‍💼 My name is Philip, I am a System Administrator on a medium-sized company.
+🐧 I am also a Member of Tux Tage (IT-Team).
+🤝 There is not a lot of content, some Projects are on GitLab which I maintain or contribute.
+⚙️ Likes to automate tasks which needs to be constantly maintained.
+👨🏻‍💻 Developer for 2 Manjaro Projects
 ```
 </p>
 
