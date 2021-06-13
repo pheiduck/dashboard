@@ -23,7 +23,7 @@ manjaro-zsh-config</a> and <a href="https://gitlab.manjaro.org/applications/manj
   <img src="https://github-readme-stats.vercel.app/api?username=pheiduck&theme=dark&show_icons=true&layout=compact" width="495" height="195">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheiduck&theme=dark&show_icons=true&layout=compact" width="495" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheiduck&theme=dark&show_icons=true&layout=compact" width="532" height="232">
 </p>
 
 ---
