@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./index.gif">
 </p>
-<p align="center">
 <table  align="center">
   <tr>
     <th align="left">About Me:</th>
@@ -14,7 +13,6 @@
 ⚙️ Likes to automate tasks which needs to be constantly maintained. <br>
 👨🏻‍💻 Developer for 2 Manjaro Projects: <a href="https://gitlab.manjaro.org/packages/community/manjaro-zsh-config">
 manjaro-zsh-config</a> and <a href="https://gitlab.manjaro.org/applications/manjaro-architect">manjaro-architect</a>
-</p>
 </td>
     </tr>
 </table>
