@@ -1,17 +1,23 @@
 <p align="center">
   <img src="./index.gif">
 </p>
-
 <p align="center">
-
-```shell
-👨🏻‍💼 My name is Philip, I am a System Administrator on a medium-sized company.
-🐧 I am also a Member of Tux Tage (IT-Team).
-🤝 There is not a lot of content, some Projects are on GitLab which I maintain or contribute.
-⚙️ Likes to automate tasks which needs to be constantly maintained.
-👨🏻‍💻 Developer for 2 Manjaro Projects
-```
+<table  align="center">
+  <tr>
+    <th align="left">About Me:</th>
+      </tr>
+        <tr>
+          <td>
+👨🏻‍💼 My name is Philip, I am a System Administrator on a medium-sized company. <br>
+🐧 I am also a Member of Tux Tage (IT-Team). <br>
+🤝 There is not a lot of content, some Projects are on GitLab which I maintain or contribute. <br>
+⚙️ Likes to automate tasks which needs to be constantly maintained. <br>
+👨🏻‍💻 Developer for 2 Manjaro Projects: <a href="https://gitlab.manjaro.org/packages/community/manjaro-zsh-config">
+manjaro-zsh-config</a> and <a href="https://gitlab.manjaro.org/applications/manjaro-architect">manjaro-architect</a>
 </p>
+</td>
+    </tr>
+</table>
 
 ---
 
