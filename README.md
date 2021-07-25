@@ -7,7 +7,7 @@
       </tr>
         <tr>
           <td>
-👨🏻‍💼 My name is Philip, I am a System Administrator on a medium-sized company. <br>
+👨🏻‍💼 Hi 👋 My name is Philip, I am a System Administrator on a medium-sized company. <br>
 🐧 I am also a Member of Tux Tage (IT-Team). <br>
 🤝 There is not a lot of content, some Projects are on GitLab which I maintain or contribute. <br>
 ⚙️ Likes to automate tasks which needs to be constantly maintained. <br>
