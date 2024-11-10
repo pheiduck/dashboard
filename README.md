@@ -9,7 +9,7 @@
 🏎️ Running Servers on Manjaro headless image btw <br>
 🤝 There is not a lot of content, some Projects are on GitLab which I maintain or contribute. <br>
 ⚙️ Likes to automate tasks which needs to be constantly maintained. <br>
-👨🏻‍💻 Developer for [paste in number here]: <br> <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" height="14"/> Projects: <a href="https://gitlab.manjaro.org/packages/community/manjaro-zsh-config/-/commits/master?author=Philip%20H">
+👨🏻‍💻 Developer for [paste in number here]: <br> <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" height="14"/> Projects: <a href="https://gitlab.manjaro.org/packages/extra/manjaro-zsh-config/-/commits/master?author=Philip%20H">
 manjaro-zsh-config</a> and <a href="https://gitlab.manjaro.org/applications/manjaro-architect/-/commits/master?author=Philip%20H">manjaro-architect</a><br>
 <a align="left"><strong>Contributor on this Upstream Projects:</strong></a>
 <br><a href="https://github.com/Chrysostomus/manjaro-zsh-config">manjaro-zsh-config</a><br>
